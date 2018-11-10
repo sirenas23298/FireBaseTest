@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "157365204597",
+    "firebase_url": "https://firb-test-quyen.firebaseio.com",
+    "project_id": "firb-test-quyen",
+    "storage_bucket": "firb-test-quyen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157365204597:android:38b66190d0e2380c",
+        "android_client_info": {
+          "package_name": "dhbkdn.it.dut.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157365204597-qcpllfl4i6n14t42p5bq0mhc1h7b7esu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_unFLyi4UL3Oa3LZlTsODeC1vaKeCTK8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
